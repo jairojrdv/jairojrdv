@@ -5,8 +5,8 @@
 ### About me:
 
   
-- 👨‍💻 I am **Web Developer** 
-- 👀 Constantly studying: **Node.Js** and **React.Js**.
+- 👨‍💻 I am **Front-End Developer** 
+- 👀 Constantly studying: **JavaScript** and **Vue.Js**.
 - 😎🚀 <b>⁠"My name is Constant Evolution"</b>.
 
 <br>
