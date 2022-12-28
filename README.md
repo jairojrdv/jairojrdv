@@ -11,7 +11,11 @@
 
 <br>
 ### That's all folks 😎
-
+<div>
+  <a href="https://github.com/jairojrdv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairojrdv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairojrdv&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank">
     <img
@@ -50,3 +54,6 @@
   </a>
   
 </p>
+<div> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
