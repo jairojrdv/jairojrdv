@@ -89,7 +89,6 @@
     />
   </a>
 
-<a target="_blank">
   <i class="fi fi-brands-php"></i>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
@@ -97,7 +96,6 @@
       width="40"
       height="40"
     />
-  </a>
   
 </p>
 
