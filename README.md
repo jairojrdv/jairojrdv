@@ -88,7 +88,7 @@
       height="40"
     />
   </a>
-  <a href="[https://www.flaticon.com/free-icons/php](https://www.php.net/docs.php)" target="_blank"></a>
+  <a href="https://www.php.net/docs.php" target="_blank"></a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
      alt="PHP"
       width="40"
@@ -102,23 +102,44 @@
       height="40"
      />
   </a>
-  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+  <a href="https://docs.docker.com/" target="_blank"></a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
      alt="Docker"
       width="40"
       height="40"
      />
   </a>
-  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+  <a href="https://www.figma.com/developers/api" target="_blank"></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
      alt="Figma"
       width="40"
       height="40"
      />
   </a>
-  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"></a>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   
      alt="MySql"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"     
+     alt="Python"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="(https://v2.tailwindcss.com/docs" target="_blank"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+     alt="Tailwind"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="https://code.visualstudio.com/Docs" target="_blank"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+     alt="VsCode"
       width="40"
       height="40"
      />
