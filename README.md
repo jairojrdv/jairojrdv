@@ -40,7 +40,7 @@
   <a href="https://vuexy.vuejs.org/" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"
-      alt="Vuexy"
+      alt="Vuex"
       width="40"
       height="40"
     />
@@ -95,6 +95,35 @@
       height="40"
      />
   </a>
+  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+     alt="Láravel"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     alt="Docker"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+     alt="Figma"
+      width="40"
+      height="40"
+     />
+  </a>
+  <a href="https://laravel.com/docs/10.x/" target="_blank"></a>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   
+     alt="MySql"
+      width="40"
+      height="40"
+     />
+  </a>
+
   
 </p>
 
