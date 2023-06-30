@@ -88,10 +88,10 @@
       height="40"
     />
   </a>
-  <a href="https://img.icons8.com/?size=512&id=39852&format=png" target="_blank">
+  <a href="https://www.flaticon.com/free-icons/php" title="php icons"></a>
     <img
-      src="https://img.icons8.com/?size=512&id=39852&format=png"
-      alt="Git"
+      src="https://www.flaticon.com/free-icons/php"
+      alt="PHP"
       width="40"
       height="40"
     />
