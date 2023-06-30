@@ -88,13 +88,12 @@
       height="40"
     />
   </a>
-  <a href="https://www.flaticon.com/free-icons/php" title="php icons"></a>
-    <img
-      src="https://www.flaticon.com/free-icons/php"
-      alt="PHP"
+  <a href="[https://www.flaticon.com/free-icons/php](https://www.php.net/docs.php)" target="_blank"></a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+     alt="PHP"
       width="40"
       height="40"
-    />
+     />
   </a>
   
 </p>
