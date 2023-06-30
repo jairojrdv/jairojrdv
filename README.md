@@ -88,9 +88,9 @@
       height="40"
     />
   </a>
-  <a href=" https://img.icons8.com/?size=512&id=39852&format=png" target="_blank">
+  <a href="https://img.icons8.com/?size=512&id=39852&format=png" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      src="https://img.icons8.com/?size=512&id=39852&format=png"
       alt="Git"
       width="40"
       height="40"
