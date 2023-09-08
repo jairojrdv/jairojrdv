@@ -6,7 +6,7 @@
 
   
 - 👨‍💻 I am **Full-Stack Developer** 
-- 👀 Constantly studying: **Láravel** and **Vue.Js**.
+- 👀 Constantly studying: **Laravel** and **Vue.Js**.
 - 😎🚀 <b>⁠"My name is Constant Evolution"</b>.
 
 <br>
